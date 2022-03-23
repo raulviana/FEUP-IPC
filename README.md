@@ -1,6 +1,6 @@
 # FEUP-IPC
 
-Repository for the Human-Computer Interaction ![https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484432] *Interação Pessoa Computador*
+Repository for the Human-Computer Interaction - [*Interação Pessoa Computador* page](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484432)
 
 Project was divided in three incremental phases. The main objective was to develop a mobile application prototype. This mobile application mimics the *spotify* service, with extra functionalities, mainly;
 
